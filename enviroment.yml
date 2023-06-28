@@ -1,0 +1,10 @@
+name: MLclas
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: C:\Users\chech\anaconda3\envs\MLclas
